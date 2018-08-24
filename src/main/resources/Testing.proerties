@@ -1,0 +1,5 @@
+mssql.port=1433
+mssql.server=g2vappdbtst01.bpww.org
+mssql.database=dbURLS_QA
+mssql.user=urlsuser
+mssql.password=urlsuser
